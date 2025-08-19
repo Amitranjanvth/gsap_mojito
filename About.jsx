@@ -54,10 +54,7 @@ const About = () => {
 	 </div>
 	 
 	 <div className="top-grid">
-		<div className="md:col-span-8">
-		 <div  className="noisy" />
-		 <img src="/images/abt1.png" alt="grid-img-1" />
-		</div>
+		
 		
 		<div className="md:col-span-6">
 		 <div  className="noisy" />
